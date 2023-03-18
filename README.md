@@ -2,7 +2,11 @@
 
 The code for each of the sections can be found by clinking on the links below:
 
-1. [hpREADs]()
+1. [hpREADs](https://github.com/hansa436/Masters-2022-2023/tree/main/hpREADs)
+
+      1a. [hpREADs- sequence extarction](https://github.com/hansa436/Masters-2022-2023/blob/main/hpREADs/sequence_extraction.sh)
+      
+      1b. [hpREADs- reference mapping](https://github.com/hansa436/Masters-2022-2023/blob/main/hpREADs/hpREADs_mapping.sh)
 
 2. [Concatenation](https://github.com/hansa436/Masters-2022-2023/tree/main/Concatenation)
 
