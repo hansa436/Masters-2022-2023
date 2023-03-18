@@ -8,7 +8,7 @@ The code for each of the sections can be found by clinking on the links below:
 3. 
 2a. [Concatenation- split reads]()
 
-2b. [Concatenation- Megalodon Methylation calling]()
+2b. [Concatenation- Megalodon Methylation calling](https://github.com/hansa436/Masters-2022-2023/blob/main/Concatenation/methylation_megalodon.sh)
 
 3. [UMI]()
 
