@@ -5,8 +5,8 @@ The code for each of the sections can be found by clinking on the links below:
 1. [hpREADs]()
 
 2. [Concatenation](https://github.com/hansa436/Masters-2022-2023/tree/main/Concatenation)
-3. 
-2a. [Concatenation- split reads]()
+
+2a. [Concatenation- split reads](https://github.com/hansa436/Masters-2022-2023/blob/main/Concatenation/Concatenation_pipeline.sh)
 
 2b. [Concatenation- Megalodon Methylation calling](https://github.com/hansa436/Masters-2022-2023/blob/main/Concatenation/methylation_megalodon.sh)
 
