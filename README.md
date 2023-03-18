@@ -14,6 +14,6 @@ The code for each of the sections can be found by clinking on the links below:
 
       2b. [Concatenation- Megalodon Methylation calling](https://github.com/hansa436/Masters-2022-2023/blob/main/Concatenation/methylation_megalodon.sh)
 
-3. [UMI]()
+3. [UMI](https://github.com/hansa436/Masters-2022-2023/blob/main/UMI/UMI_pipeline.sh)
 
 4. [Rolling Circle]()
