@@ -1,0 +1,5 @@
+# Concatenation
+
+The concatenation pipleine consists of two separate files, 
+The first is the read splitting script 
+and the second is the megalodon methylation calling script 
