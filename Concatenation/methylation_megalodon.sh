@@ -6,10 +6,10 @@
 #   Compute settings: GPU devices 0 and 1 with 20 CPU cores
 
 
-raw_fast5s=27_5mc_only.fast5
-reference=../genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa
-# output=./megalodon/27ac
-#guppy_path=../../ont-guppy-cpu/bin/
+raw_fast5s=PATH_TO_FAST5/*
+reference=Hg38_HUMAN_GENOME.fa
+output=PUTPUT_FILE_PATH
+guppy_path=PATH_TO/ont-guppy-cpu/bin/
 
 megalodon \
     ${raw_fast5s} \
