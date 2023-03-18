@@ -5,6 +5,8 @@ The code for each of the sections can be found by clinking on the links below:
 1. [hpREADs]()
 
 2. [Concatenation]()
+2a. [Concatenation- split reads]()
+2b. [Concatenation- Megalodon Methylation calling]()
 
 3. [UMI]()
 
